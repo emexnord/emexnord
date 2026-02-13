@@ -19,11 +19,9 @@
 
 ## About Me
 
-Hello, I'm Emran Kamil, a Full-stack Developer specializing in backend development.
+Hello, I'm Emran Kamil, a Senior Developer with AI/ML Expertise and a Computer Engineer.
 
-💻 I'm experienced in utilizing Node.js, Python, and Go to build world-class products.
-
-📚 I'm a Computer Engineer, and right now, I'm deep into learning advanced Machine Learning and AI — it's an exciting journey to grow and innovate.
+💻 I'm experienced in utilizing Node.js, Python, and Go to build world-class products.\
 
 💬 Ask me anything [here](https://github.com/emexnord/emexnord/issues).
 
